@@ -1,2 +1,2 @@
-# jordanamgai.github.io
+# jordan-amgai.github.io
 website for you
