@@ -1,2 +1,2 @@
-# lovesite.github.io
-website for lovers
+# jordanamgai.github.io
+website for you
