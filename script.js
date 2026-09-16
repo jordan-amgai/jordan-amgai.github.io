@@ -31,6 +31,16 @@ function updateTimer() {
     `${days} Days ${hours} Hours ${minutes} Minutes ${seconds} Seconds`;
 }
 
+function yesAnswer(){
+	document.getElementById("answer").textConten="I love you more :)))"}
+function noAnswer(){
+	document.getElementById("answer").textConten="I will love you even if you don't love me :(("}
+
+
+document.getElementById("love_yes").onclick = yesAnswer;
+document.getElementById("hate_no").onclick = noAnswer;
+
+
 updateTimer();
 
 setInterval(updateTimer, 1000);
