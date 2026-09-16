@@ -32,9 +32,9 @@ function updateTimer() {
 }
 
 function yesAnswer(){
-	document.getElementById("answer").textConten="I love you more :)))"}
+	document.getElementById("answer").textContent="I love you more :)))"}
 function noAnswer(){
-	document.getElementById("answer").textConten="I will love you even if you don't love me :(("}
+	document.getElementById("answer").textContent="I will love you even if you don't love me :(("}
 
 
 document.getElementById("love_yes").onclick = yesAnswer;
