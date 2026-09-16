@@ -88,3 +88,9 @@ label{
 	font-weight: bold;
 	text-align: center;
 }
+
+#love_yes, #love_hate{
+	font-size:25px;
+	padding: 10px 10px;
+	color: #ff69b4;
+}
