@@ -9,7 +9,7 @@ body {
   font-family: arial, sans-serif;
   text-align: center;
 }
-.feelings{
+#feelings{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -80,6 +80,7 @@ label{
 	padding: 30px 50px;
 	font-size:20px;
 	color:#ff69b4;
+}
 
 .question{
 	padding: 0 0 20px;
@@ -89,8 +90,14 @@ label{
 	text-align: center;
 }
 
-#love_yes, #love_hate{
-	font-size:100px;
-	padding: 10px 10px;
-	color: #ff69b4;
+#love_yes {
+    width: 500px;
+    height: 150px;
+    font-size: 250px;
+}
+
+#hate_no {
+    width: 250px;
+    height: 75px;
+    font-size: 250px;
 }
