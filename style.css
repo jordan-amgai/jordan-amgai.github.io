@@ -77,3 +77,10 @@ h2 {
   box-shadow: 0 10px 30px rgba(255, 20, 147, 0.3);
 }
 
+.question{
+	padding: 0 0 20px;
+	color: #ff69b4;
+	font-size: 25 px;
+	font-weight: bold;
+	text-align: center;
+}
